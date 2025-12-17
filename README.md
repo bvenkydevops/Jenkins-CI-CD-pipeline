@@ -89,7 +89,8 @@ when { branch 'main' }
  ✔ Remaining stages are skipped automatically
 
 
-![Jenkins CI_CD Kubernetes-2025-12-17-070944](https://github.com/user-attachments/assets/1575faf0-7e22-4f82-b275-3c6199b171b7)
+
+<img width="2432" height="6927" alt="Jenkins CI_CD Kubernetes-2025-12-17-073645" src="https://github.com/user-attachments/assets/6aba7fdf-cc6b-4c77-86ac-58410741efe0" />
 
 
 
