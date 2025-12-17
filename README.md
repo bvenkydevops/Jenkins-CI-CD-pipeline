@@ -63,6 +63,32 @@ CI/CD PIPELINE (Jenkins Declarative)
       └── Failure Email Notification
 
 ```
+
+```
+
+when { branch 'dev' }
+
+➡ Executes Dev related stages
+
+
+
+when { branch 'qa' }
+
+➡ Executes QA related stages
+
+
+
+when { branch 'main' }
+
+➡ Executes Production related stages
+
+```
+
+✔ Only the matching environment stages are executed
+
+ ✔ Remaining stages are skipped automatically
+
+
 ![Jenkins CI_CD Kubernetes-2025-12-17-070944](https://github.com/user-attachments/assets/1575faf0-7e22-4f82-b275-3c6199b171b7)
 
 
